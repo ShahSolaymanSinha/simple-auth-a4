@@ -10,9 +10,6 @@ yarn install
 or
 yarn
 
-// create .env file and add this
-DB_URL=mongodb+srv://admin:admin@cluster0.v7nx3ri.mongodb.net/?retryWrites=true&w=majority
-
 // run application locally with this script
 yarn start:dev
 
